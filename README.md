@@ -1,4 +1,4 @@
-## 𝙲𝚙𝚝𝚢𝙼𝙱𝚘𝚝𝚜 ☂︎
+## MusviNgebot☂︎
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/AriiqDesign/CptyMBots
-> cd CptyMBots
+> git clone https://github.com/musvipratama007/BotWa
+> cd BotWa
 > bash install.sh
 > node index.js
 ```
