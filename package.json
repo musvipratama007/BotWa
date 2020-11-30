@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AriiqDesign/CptyMBots"
+    "url": "git+https://github.com/musvipratama007/BotWa"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Ahmad Ariiq Khoironi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AriiqDesign/CptyMBots/issues"
+    "url": "https://github.com/musvipratama007/BotWa/issues"
   },
-  "homepage": "https://github.com/AriiqDesign/CptyMBots#readme"
+  "homepage": "https://github.com/musvipratama007/BotWa#readme"
 }
